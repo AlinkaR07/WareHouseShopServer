@@ -1,0 +1,7 @@
+2023-05-06 23:13:46.0024 Info Message Template Auto Format enabled
+2023-05-06 23:13:46.0218 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-06 23:13:46.1840 Info Registered target NLog.Targets.FileTarget(Name=jsonFile)
+2023-05-06 23:13:46.2014 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2023-05-06 23:13:46.2458 Info Validating config: TargetNames=jsonFile, ConfigItems=27, FilePath=D:\ИГЭУ\3 курс, 2 сесместр\Интернет-приложения\Лабораторная работа №2\AspNetCore\AspNetCoreApp\bin\Debug\net6.0\NLog.config
+2023-05-06 23:13:46.2458 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: jsonFile
+2023-05-06 23:13:46.4901 Info Validating config: TargetNames=jsonFile, ConfigItems=27, FilePath=D:\ИГЭУ\3 курс, 2 сесместр\Интернет-приложения\Лабораторная работа №2\AspNetCore\AspNetCoreApp\bin\Debug\net6.0\NLog.config
